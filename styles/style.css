@@ -1,6 +1,6 @@
 body {
   font-family: Roboto, Arial;
-  height: 4850px;
+  height: 4650px;
   padding-top: 48px;
   margin: 0;
   width: 1200px;
@@ -277,7 +277,7 @@ nav {
 }
 
 .faq {
-  height: 1000px;
+  height: 800px;
   background-color: rgb(236, 250, 229);
   display: grid;
   grid-template-rows: 1fr 1fr;
@@ -325,7 +325,7 @@ nav {
 }
 
 footer {
-  height: 300px;
+  height: 100px;
   display: flex;
   flex-direction: column;
   width: 1280px;
